@@ -1,2 +1,2 @@
 # next.js-crud
-A simple next JS Application with CRUD operations
+A next JS Application with simple CRUD operations
